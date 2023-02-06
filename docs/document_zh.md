@@ -261,7 +261,7 @@ default: `true`<br>
 组件是否可调整大小
 
 ```html
-<Vue3DraggableResizable :draggable="true" />
+<Vue3DraggableResizable :resizable="true" />
 ```
 
 #### lockAspectRatio
